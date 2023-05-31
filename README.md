@@ -23,16 +23,14 @@ nodemon server.js
 
 ### Already created routes
 
-#### Route '/'
-##### Response
+- Route '/' 
 ```json
 {
 	"status": 200
 }
 ```
 
-#### Route '/api/players'
-##### Response
+- Route '/api/players'
 ```json
 {
 	"addedBalance": 1,
